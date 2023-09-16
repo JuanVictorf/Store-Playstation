@@ -9,7 +9,7 @@ export class CardPricingComponent implements OnInit {
 
   @Input()
   gameType:string = "Digital PS4";
-  gamePrice:String = "R$ 399,90"
+  gamePrice:string = "R$399,90";
 
   constructor() { }
 
